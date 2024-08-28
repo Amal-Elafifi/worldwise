@@ -43,7 +43,7 @@ const reducer =(state, action) => {
         cities: state.cities.filter(city => city.id !== action.payload),
         currentCity: {} 
       };
-    case 'rejacted':
+    case 'rejected':
       return {
         ...state, 
         isLoading: false, 
@@ -89,7 +89,7 @@ const CitiesProvider = ( {children}) => {
       dispatch({type: 'loading'})
       try{
           const res = await fetch(`${BASE_URL}/cities`, {
-            method: 'post',
+            method: 'POST',
             body: JSON.stringify(newCity),
             headers: {
               'Content-Type': "application/json"
