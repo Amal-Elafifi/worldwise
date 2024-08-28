@@ -6,7 +6,7 @@ It is website that tracks your adventures when you travel around the world.
 It records the city with the date of the visit, its place on the map and your notes about this city.
 It also provides searching about cities on the map to put aplan for the future visits.
 
-## sections
+## Sections
 - Home Page
 - Pricing Page
 - Product Page
