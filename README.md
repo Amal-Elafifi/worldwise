@@ -24,29 +24,29 @@ It also provides searching about cities on the map to put aplan for the future v
 
     ## Photos of the website
     
-    ![world1](https://github.com/user-attachments/assets/97a398a7-c4d6-4851-9d12-f23d3b5eceed)
+    @[world1](https://github.com/user-attachments/assets/97a398a7-c4d6-4851-9d12-f23d3b5eceed)
     
     
 
-    ![world2](https://github.com/user-attachments/assets/6007f1fc-6840-4463-9c3d-c8bec0060102)
+    @[world2](https://github.com/user-attachments/assets/6007f1fc-6840-4463-9c3d-c8bec0060102)
     
  
-    ![world3](https://github.com/user-attachments/assets/68182d79-38be-4829-9c6d-a3db8bfcd290)
+    @[world3](https://github.com/user-attachments/assets/68182d79-38be-4829-9c6d-a3db8bfcd290)
     
 
-    ![worldlogin](https://github.com/user-attachments/assets/9ee6a356-4ce8-44e1-a01d-719639021b63)
+    @[worldlogin](https://github.com/user-attachments/assets/9ee6a356-4ce8-44e1-a01d-719639021b63)
     
     
-    ![cities](https://github.com/user-attachments/assets/49221568-d218-4524-a002-fb94dc4b2aa9)
-    
-
-    ![adding city](https://github.com/user-attachments/assets/d2bab7b1-f470-4c58-95fe-73029ba689be)
+    @[cities](https://github.com/user-attachments/assets/49221568-d218-4524-a002-fb94dc4b2aa9)
     
 
-    ![countries](https://github.com/user-attachments/assets/d459e006-0a53-48d4-bb5f-a7013ed51e80)
+    @[adding city](https://github.com/user-attachments/assets/d2bab7b1-f470-4c58-95fe-73029ba689be)
     
 
-    ![city details](https://github.com/user-attachments/assets/524eab91-1e30-4cfc-b377-eef35cd2446d)
+    @[countries](https://github.com/user-attachments/assets/d459e006-0a53-48d4-bb5f-a7013ed51e80)
+    
+
+    @[city details](https://github.com/user-attachments/assets/524eab91-1e30-4cfc-b377-eef35cd2446d)
     
     
 
