@@ -27,6 +27,17 @@ It also provides searching about cities on the map to put aplan for the future v
   -  Beautiful Design
   -  Simple Recorder
 
+  ## How to run
+
+  ### From the commandline run
+    - npm i
+    
+  #### For the backend server
+    -npm run server
+    
+  #### For the frontEnd server
+    - npm run dev
+
 
     ## Website Images
     
