@@ -39,7 +39,7 @@ It also provides searching about cities on the map to put aplan for the future v
     - npm run dev
 
 
-    ## Website Images
+## Website Images
     
     
   ![world1](https://github.com/user-attachments/assets/97a398a7-c4d6-4851-9d12-f23d3b5eceed)
