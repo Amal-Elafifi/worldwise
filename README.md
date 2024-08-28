@@ -43,10 +43,10 @@ It also provides searching about cities on the map to put aplan for the future v
    ![adding city](https://github.com/user-attachments/assets/d2bab7b1-f470-4c58-95fe-73029ba689be)
     
 
-    ![countries](https://github.com/user-attachments/assets/d459e006-0a53-48d4-bb5f-a7013ed51e80)
+  ![countries](https://github.com/user-attachments/assets/d459e006-0a53-48d4-bb5f-a7013ed51e80)
     
 
-    ![city details](https://github.com/user-attachments/assets/524eab91-1e30-4cfc-b377-eef35cd2446d)
+  ![city details](https://github.com/user-attachments/assets/524eab91-1e30-4cfc-b377-eef35cd2446d)
     
     
 
