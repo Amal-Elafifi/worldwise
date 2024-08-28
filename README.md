@@ -24,13 +24,13 @@ It also provides searching about cities on the map to put aplan for the future v
 
     ## Website Images
     
-    ![world1](https://github.com/user-attachments/assets/97a398a7-c4d6-4851-9d12-f23d3b5eceed)
     
+  ![world1](https://github.com/user-attachments/assets/97a398a7-c4d6-4851-9d12-f23d3b5eceed)
     
 
-    ![world2](https://github.com/user-attachments/assets/6007f1fc-6840-4463-9c3d-c8bec0060102)
+  ![world2](https://github.com/user-attachments/assets/6007f1fc-6840-4463-9c3d-c8bec0060102)
     
- 
+
    ![world3](https://github.com/user-attachments/assets/68182d79-38be-4829-9c6d-a3db8bfcd290)
     
 
